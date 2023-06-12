@@ -1,0 +1,14 @@
+playwright
+playwright-stealth
+pydub
+vosk
+requests
+aiohttp
+aiofiles
+numpy
+pillow
+opencv-python
+keras
+googletrans
+nltk
+ultralytics
